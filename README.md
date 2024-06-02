@@ -20,3 +20,8 @@ O TAD oferece as seguintes operações:
 - **Consulta de um elemento**: Retorna o elemento em uma determinada posição.
 - **Impressão dos elementos**: Imprime todos os elementos do vetor.
 - **Exclusão do vetor**: Libera a memória alocada para o vetor.
+
+## Contato
+- **Autor:** Kawan Melo
+- **Email:** [kawangcmelo@gmail.com](mailto:kawangcmelo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kawanmelo](https://linkedin.com/in/kawanmelo)
