@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ED-lista2-questao01.h"
+#include "Array.h"
 
 /*
 ** Função : Implementar um TAD para representar dinamicamente um vetor de inteiros.
